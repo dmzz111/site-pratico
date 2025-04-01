@@ -51,7 +51,9 @@ margin:auto;
     display: flex;
     justify-content: center;
     gap: 10px;
+}
 
+footer{
 
-
+background-color: #1BB3F5;
 }
